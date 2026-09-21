@@ -14,37 +14,37 @@ I also have experience with **Selenium, Robot Framework, QF-Test, Ranorex, Allur
 
 ### Test Automation
 
-![PLAYWRIGHT](https://img.shields.io/badge/-PLAYWRIGHT-000000?style=for-the-badge&logo=playwright&logoColor=2ead33)
-![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=3178c6)
-![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![SELENIUM](https://img.shields.io/badge/-SELENIUM-000000?style=for-the-badge&logo=selenium&logoColor=43b02a)
-![ROBOT FRAMEWORK](https://img.shields.io/badge/-ROBOT%20FRAMEWORK-000000?style=for-the-badge&logo=robotframework&logoColor=00c0b5)
-![RANOREX](https://img.shields.io/badge/-RANOREX-000000?style=for-the-badge)
+![Playwright](https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=45BA4B)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Selenium](https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium&logoColor=43B02A)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=00C0B5)
+![Ranorex](https://img.shields.io/badge/Ranorex-000000?style=for-the-badge)
 
 ### API & Testing
 
-![POSTMAN](https://img.shields.io/badge/-POSTMAN-000000?style=for-the-badge&logo=postman&logoColor=ff6c37)
-![REST API](https://img.shields.io/badge/-REST%20API-000000?style=for-the-badge)
-![QF-TEST](https://img.shields.io/badge/-QF--TEST-000000?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+![QF-Test](https://img.shields.io/badge/QF--Test-000000?style=for-the-badge)
 
 ### Performance Testing & Monitoring
 
-![JMETER](https://img.shields.io/badge/-APACHE%20JMETER-000000?style=for-the-badge&logo=apachejmeter&logoColor=d22128)
-![GRAFANA](https://img.shields.io/badge/-GRAFANA-000000?style=for-the-badge&logo=grafana&logoColor=f46800)
-![INFLUXDB](https://img.shields.io/badge/-INFLUXDB-000000?style=for-the-badge&logo=influxdb&logoColor=22ADF6)
+![Apache JMeter](https://img.shields.io/badge/Apache_JMeter-000000?style=for-the-badge&logo=apachejmeter&logoColor=D22128)
+![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=F46800)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-000000?style=for-the-badge&logo=influxdb&logoColor=22ADF6)
 
 ### CI/CD & DevOps
 
-![GITLAB](https://img.shields.io/badge/-GITLAB%20CI%2FCD-000000?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
-![JENKINS](https://img.shields.io/badge/-JENKINS-000000?style=for-the-badge&logo=jenkins&logoColor=D24939)
-![GITHUB ACTIONS](https://img.shields.io/badge/-GITHUB%20ACTIONS-000000?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![DOCKER](https://img.shields.io/badge/-DOCKER-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-000000?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
+![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=D24939)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 ### Reporting & QA Tools
 
-![ALLURE](https://img.shields.io/badge/-ALLURE%20REPORTS-000000?style=for-the-badge)
-![JIRA](https://img.shields.io/badge/-JIRA-000000?style=for-the-badge&logo=jira&logoColor=2684FF)
-![CONFLUENCE](https://img.shields.io/badge/-CONFLUENCE-000000?style=for-the-badge&logo=confluence&logoColor=172B4D)
+![Allure Reports](https://img.shields.io/badge/Allure_Reports-000000?style=for-the-badge&logo=allure&logoColor=FF4B4B)
+![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=2684FF)
+![Confluence](https://img.shields.io/badge/Confluence-000000?style=for-the-badge&logo=confluence&logoColor=172B4D)
 
 ---
 
@@ -106,6 +106,7 @@ I also have experience with **Selenium, Robot Framework, QF-Test, Ranorex, Allur
 - 📧 **Email:** [silanov.alexander@gmail.com](mailto:silanov.alexander@gmail.com)
 - 📱 **Phone:** [+49 1578 434 90 26](tel:+4915784349026)
 
+[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/)
 
 ---
 
